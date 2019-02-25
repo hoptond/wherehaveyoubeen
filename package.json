@@ -1,0 +1,26 @@
+{
+  "name": "wherehaveyoubeen",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "dependencies": {
+    "ol": "^5.3.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoptond/wherehaveyoubeen.git"
+  },
+  "author": "Daniel Hopton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoptond/wherehaveyoubeen/issues"
+  },
+  "homepage": "https://github.com/hoptond/wherehaveyoubeen#readme",
+  "keywords": []
+}
